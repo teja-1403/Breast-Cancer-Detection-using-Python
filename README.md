@@ -17,4 +17,22 @@ For our project 92 Benign, 42 Malignant, and 38 Normal images were used and 10 d
 
 ![Screenshot 2024-12-01 173437](https://github.com/user-attachments/assets/ffa43a43-86b5-492c-8715-8a85a5bdb6e8)
 
+![Screenshot 2024-12-01 191553](https://github.com/user-attachments/assets/3836a1ea-5c76-4f2f-8d8c-6ac39fbca500)
+
+📍 SVM achieved the highest accuracy (77.14%) and a balanced precision-recall performance. 
+
+📍 Logistic Regression and Random Forest showed consistent classifications for most Malignant cases. Decision Tree performed poorly with higher variance in classifications.
+
+# 
+Languages used : 
+
+![python-logo-only](https://github.com/user-attachments/assets/a78aa447-fe92-4892-aaed-4dd6ea761795)
+
+# 
+📣 Feel free to have a look at all the files in this repository !🤗
+
+❎ In case you find issues in any of my Repositories, you can Hit Me Up [here](https://github.com/issues)! 👈
+
+
+
 
